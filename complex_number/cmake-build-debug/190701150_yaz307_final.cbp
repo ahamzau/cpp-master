@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="190701150_yaz307_final"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="190701150_yaz307_final">
+				<Option output="/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/190701150_yaz307_final" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ahamzaustun/Downloads/190701150_yaz307_final/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 190701150_yaz307_final"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="190701150_yaz307_final/fast">
+				<Option output="/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/190701150_yaz307_final" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ahamzaustun/Downloads/190701150_yaz307_final/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 190701150_yaz307_final/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ahamzaustun/Downloads/190701150_yaz307_final/complexnumber.h">
+			<Option target="190701150_yaz307_final"/>
+		</Unit>
+		<Unit filename="/Users/ahamzaustun/Downloads/190701150_yaz307_final/main.cpp">
+			<Option target="190701150_yaz307_final"/>
+		</Unit>
+		<Unit filename="/Users/ahamzaustun/Downloads/190701150_yaz307_final/mypair.h">
+			<Option target="190701150_yaz307_final"/>
+		</Unit>
+		<Unit filename="/Users/ahamzaustun/Downloads/190701150_yaz307_final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ahamzaustun/Downloads/190701150_yaz307_final/cmake-build-debug/CMakeFiles/190701150_yaz307_final.dir

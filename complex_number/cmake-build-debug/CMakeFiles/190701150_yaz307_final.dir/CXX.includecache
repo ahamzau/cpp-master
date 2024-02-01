@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ahamzaustun/Downloads/190701150_yaz307_final/ComplexNumber.h
+cmath
+-
+math.h
+-
+
+/Users/ahamzaustun/Downloads/190701150_yaz307_final/MyPair.h
+
+/Users/ahamzaustun/Downloads/190701150_yaz307_final/main.cpp
+iostream
+-
+cmath
+-
+ComplexNumber.h
+/Users/ahamzaustun/Downloads/190701150_yaz307_final/ComplexNumber.h
+MyPair.h
+/Users/ahamzaustun/Downloads/190701150_yaz307_final/MyPair.h
+
